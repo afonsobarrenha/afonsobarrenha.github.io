@@ -28,7 +28,7 @@ twitter_username: afonsobarrenha
 github_username:  afonsobarrenha
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
