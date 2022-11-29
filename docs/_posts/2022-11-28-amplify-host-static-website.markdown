@@ -10,4 +10,4 @@ Primeiro site estático servido através do Amplify, mas com uma surpresinha des
 
 Corri para apagar a aplicação no Amplify, e corri para ver se não havia ficado nada "para trás" no serviço de EC2, ou Volumes.
 
-Mas no final, sucesso.
+Mas no final, sucesso, e código-fonte em [afonsobarrenha/amplify-host-static-website](https://github.com/afonsobarrenha/amplify-host-static-website).
